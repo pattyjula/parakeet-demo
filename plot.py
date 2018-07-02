@@ -1,1 +1,2 @@
-print('pjula')
+print('pjula')we:wq
+
